@@ -1,0 +1,17 @@
+Diretórios:
+Código_fonte_AgentTest: Contém os códigos-fonte das rotinas executadas pelo agente para realizar a estimativado desempenho
+de um chute (KickKeyframeOptimization_AgentTest), e de uma avaliação mais completa do chute final otimizado (KickKeyframeEvaluation_AgentTest).
+
+Instalação de dependências: Contém scripts em bash para instalar as dependências necessárias para executar o programa.
+
+Otimizador: Contém o código do otimizador via CMA-ES.
+
+Resultados: Arquivos resultantes da otimização, como gráficos, vídeos, e uma lista de parâmetros otimizados.
+
+Instruções:
+Para iniciar o otimizador, é necessário instalar as dependências descritas e executar o arquivo main.py, em um ambiente Python com as bibliotecas
+matplotlib, cma, e numpy instalados.
+Uma vez que o processo main.py é interrompido ou finalizado, é necessário executar o arquivo replace_keyframe.py para copiar os parâmetros do keyframe
+que obteve melhor desempenho em toda a otimização.
+
+Os códigos também estão disponíveis no repositório itandroids-soccer3d, na branch exame_ct213_2020.

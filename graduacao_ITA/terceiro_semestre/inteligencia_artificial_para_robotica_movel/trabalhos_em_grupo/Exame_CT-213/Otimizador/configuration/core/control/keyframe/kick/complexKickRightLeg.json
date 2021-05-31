@@ -1,0 +1,11 @@
+{
+  "complex": 1,
+  "name" : "kickRightLeg",
+  "speedRate" : 1,
+  "pages" : [
+    {
+      "name" : "kickLeftLeg",
+      "inverted" : 1
+    }
+  ]
+}

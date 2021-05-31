@@ -1,0 +1,11 @@
+{
+  "complex": 1,
+  "name" : "catchLeft",
+  "speedRate" : 1,
+  "pages" : [
+    {
+      "name" : "catchRight",
+      "inverted" : 1
+    }
+  ]
+}

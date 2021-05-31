@@ -1,0 +1,16 @@
+{
+  "complex": 1,
+  "name" : "catchRightAndGetUp",
+  "speedRate" : 1,
+  "pages" : [
+    {
+      "name" : "catchRight"
+    },
+    {
+      "name" : "moveArmToFallBack"
+    },
+    {
+      "name" : "standUpFromBack"
+    }
+  ]
+}

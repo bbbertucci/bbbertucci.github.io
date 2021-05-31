@@ -1,0 +1,30 @@
+{
+  "complex": 1,
+  "name" : "test",
+  "speedRate" : 1,
+  "pages" : [
+    {
+      "name" : "getReady"
+    },
+    {
+      "name" : "fallBack"
+    },
+    {
+      "name" : "standUpFromBack",
+      "inverted" : 1
+    },
+    {
+      "name" : "getReady"
+    },
+    {
+      "name" : "getReady"
+    },
+    {
+      "name" : "fallFront"
+    },
+    { "name" : "getReady"},
+    {
+      "name" : "SuperGetUpFront"
+    }
+  ]
+}

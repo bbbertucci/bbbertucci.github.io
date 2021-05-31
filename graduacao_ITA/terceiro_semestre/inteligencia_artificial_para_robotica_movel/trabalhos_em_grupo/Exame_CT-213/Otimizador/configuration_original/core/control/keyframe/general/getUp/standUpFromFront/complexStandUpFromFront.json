@@ -1,0 +1,16 @@
+{
+  "complex": 1,
+  "name" : "standUpFromFront",
+  "speedRate" : 1,
+  "pages" : [
+    {
+      "name" : "getReadyFront"
+    },
+    {
+      "name" : "standUpFromFrontModule"
+    },
+    {
+      "name" : "getReadyFront"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "complex": 1,
+  "name" : "kickLeftLeg",
+  "speedRate" : 1,
+  "pages" : [
+    {
+      "name" : "prepFrontKick"
+    },
+    {
+      "name" : "moveLegBack"
+    },
+    {
+      "name" : "moveLegFront"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+	"period" : 0.1,
+	"doubleSupportRatio" : 0.2,
+	"ySeparation" : 0.05,
+	"zCom" : 0.32,
+	"zStep" : 0.05,
+	"armsCompensationFactor" : 0.8
+}

@@ -1,0 +1,10 @@
+{
+  "complex": 1,
+  "name" : "catchRight",
+  "speedRate" : 1,
+  "pages" : [
+    {
+      "name" : "catchRightModule"
+    }
+  ]
+}

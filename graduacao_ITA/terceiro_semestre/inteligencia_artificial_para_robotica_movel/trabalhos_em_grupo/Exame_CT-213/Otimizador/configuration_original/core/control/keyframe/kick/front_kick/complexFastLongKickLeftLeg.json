@@ -1,0 +1,13 @@
+{
+  "complex": 1,
+  "name" : "fastLongKickLeftLeg",
+  "speedRate" : 1,
+  "pages" : [
+    {
+      "name" : "getReady"
+    },
+    {
+      "name" : "fastLongKickLeftLegModule"
+    }
+  ]
+}

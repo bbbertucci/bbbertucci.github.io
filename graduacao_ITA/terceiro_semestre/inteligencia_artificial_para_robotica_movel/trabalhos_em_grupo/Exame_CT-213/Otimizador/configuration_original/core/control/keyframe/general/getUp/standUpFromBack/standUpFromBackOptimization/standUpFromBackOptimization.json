@@ -1,0 +1,16 @@
+{
+  "complex": 1,
+  "name" : "standUpFromBackOptimization",
+  "speedRate" : 1,
+  "pages" : [
+    {
+      "name" : "getReadyOptimization"
+    },
+    {
+      "name" : "initialMovementOptimization"
+    },
+    {
+      "name" : "finishMovementOptimization"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "complex": 1,
+  "name" : "standUpFromBack",
+  "speedRate" : 1,
+  "pages" : [
+    {
+      "name" : "getReady"
+    },
+    {
+      "name" : "standUpFromBack::initialMovement"
+    },
+    {
+      "name" : "standUpFromBack::finishMovement"
+    }
+  ]
+}

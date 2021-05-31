@@ -1,0 +1,9 @@
+{
+    "max_forward_speed" : 0.9 ,
+    "max_backward_speed" : 0.9 ,
+    "max_side_speed" : 0.4 ,
+    "max_angular_speed" : 300.0,
+    "angle_bandwidth" : 3.14,
+    "close_distance_threshold" : 1.0,
+    "velocity_gain" : 1.0
+   }

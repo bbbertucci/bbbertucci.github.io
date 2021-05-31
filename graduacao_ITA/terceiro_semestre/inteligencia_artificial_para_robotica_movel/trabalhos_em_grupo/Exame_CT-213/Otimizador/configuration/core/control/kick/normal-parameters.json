@@ -1,0 +1,11 @@
+{
+   "moveZmpDuration" : 0.2,
+    "kickDuration" : 0.2,
+    "takeFootDuration" : 0.5,
+    "zCom" : 0.3,
+    "zFoot" : 0.05,
+    "accelerationMoveRatio" : 0.2,
+    "ySeparation" : 0.06,
+    "armsCompensationFactor" : 0.0,
+    "kickAmplitude" : 0.1
+}

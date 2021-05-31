@@ -1,0 +1,14 @@
+{
+  "complex": 1,
+  "name" : "kick5m",
+  "speedRate" : 1,
+  "pages" : [
+    {
+      "name" : "getReady"
+    },
+    {
+      "name" : "kick5mModule",
+      "inverted" : 1
+    }
+  ]
+}
