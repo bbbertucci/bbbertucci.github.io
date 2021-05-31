@@ -23,12 +23,14 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://github.com/bbbertucci/bbbertucci.github.io/tree/main/graduacao_ITA/terceiro_semestre/inteligencia_artificial_para_robotica_movel/) and ![Image](src)
+![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
+
+[Link](https://github.com/bbbertucci/bbbertucci.github.io/tree/main/graduacao_ITA/terceiro_semestre/inteligencia_artificial_para_robotica_movel/)
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bbbertucci/bbbertucci.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
