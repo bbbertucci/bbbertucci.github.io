@@ -40,4 +40,4 @@
 
 ## Links
 
-[LinkedIn](https://www.linkedin.com/in/bruno-benjamim-bertucci/) - [GitHub](https://github.com/bbbertucci) - [GitLab](https://gitlab.com/bbbertucci)
+[LinkedIn](https://www.linkedin.com/in/bruno-benjamim-bertucci/) - [GitLab](https://gitlab.com/bbbertucci) - [GitHub](https://github.com/bbbertucci)
