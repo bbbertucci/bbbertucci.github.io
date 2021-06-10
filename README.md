@@ -38,25 +38,25 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
-##Bruno Benjamim Bertucci
-##Aluno de Engenharia Eletrônica - Instituto Tecnológico de Aeronáutica
+## Bruno Benjamim Bertucci
+## Aluno de Engenharia Eletrônica - Instituto Tecnológico de Aeronáutica
 
-###Projetos Acadêmicos
+### Projetos Acadêmicos
   - Inteligência Artificial para Robótica Móvel [Python]
     - Exame (Projeto em Grupo): [Códigos](https://github.com/bbbertucci/bbbertucci.github.io/tree/main/graduacao_ITA/terceiro_semestre/inteligencia_artificial_para_robotica_movel/trabalhos_em_grupo/Exame_CT-213) - [Relatório](https://raw.githubusercontent.com/bbbertucci/bbbertucci.github.io/main/graduacao_ITA/terceiro_semestre/inteligencia_artificial_para_robotica_movel/trabalhos_em_grupo/Exame_CT-213/grupo_21_relatorio.pdf)
     - Relatórios de Exercícios Individuais
-      1. [Máquina de Estados Finita e Behavior Tree](https://github.com/bbbertucci/bbbertucci.github.io/blob/main/graduacao_ITA/terceiro_semestre/inteligencia_artificial_para_robotica_movel/trabalhos_individuais/1_FSM_BT.pdf)
-      2. [Busca Informada](https://github.com/bbbertucci/bbbertucci.github.io/blob/main/graduacao_ITA/terceiro_semestre/inteligencia_artificial_para_robotica_movel/trabalhos_individuais/2_busca_informada.pdf)
-      3. [Métodos de Busca Local](https://github.com/bbbertucci/bbbertucci.github.io/blob/main/graduacao_ITA/terceiro_semestre/inteligencia_artificial_para_robotica_movel/trabalhos_individuais/3_otimizacao_busca_local.pdf)
-      4. [Métodos de Otimização Baseados em População](https://github.com/bbbertucci/bbbertucci.github.io/blob/main/graduacao_ITA/terceiro_semestre/inteligencia_artificial_para_robotica_movel/trabalhos_individuais/4_otimizacao_metodos_populacionais.pdf)
-      5. [Estratégias Evolutivas](https://github.com/bbbertucci/bbbertucci.github.io/raw/main/graduacao_ITA/terceiro_semestre/inteligencia_artificial_para_robotica_movel/trabalhos_individuais/5_estrategias_evolutivas.pdf)
-      6. [Redes Neurais](https://github.com/bbbertucci/bbbertucci.github.io/blob/main/graduacao_ITA/terceiro_semestre/inteligencia_artificial_para_robotica_movel/trabalhos_individuais/6_redes_neurais.pdf)
-      7. [Imitation Learning com Keras](https://github.com/bbbertucci/bbbertucci.github.io/blob/main/graduacao_ITA/terceiro_semestre/inteligencia_artificial_para_robotica_movel/trabalhos_individuais/7_imitation_learning.pdf)
-      8. [Redes Neurais Convolucionais](https://github.com/bbbertucci/bbbertucci.github.io/blob/main/graduacao_ITA/terceiro_semestre/inteligencia_artificial_para_robotica_movel/trabalhos_individuais/8_CNN.pdf)
-      9. [Detecção de Objetos](https://github.com/bbbertucci/bbbertucci.github.io/blob/main/graduacao_ITA/terceiro_semestre/inteligencia_artificial_para_robotica_movel/trabalhos_individuais/9_deteccao_de_objetos.pdf)
-      10. [Programação Dinâmica](https://github.com/bbbertucci/bbbertucci.github.io/blob/main/graduacao_ITA/terceiro_semestre/inteligencia_artificial_para_robotica_movel/trabalhos_individuais/10_programacao_dinamica.pdf)
-      11. [Aprendizado por Reforço](https://github.com/bbbertucci/bbbertucci.github.io/blob/main/graduacao_ITA/terceiro_semestre/inteligencia_artificial_para_robotica_movel/trabalhos_individuais/11_aprendizado_por_reforco.pdf)
-      12. [Deep Q-Learning](https://github.com/bbbertucci/bbbertucci.github.io/blob/main/graduacao_ITA/terceiro_semestre/inteligencia_artificial_para_robotica_movel/trabalhos_individuais/12_deep_q_learning.pdf)
+      - [Máquina de Estados Finita e Behavior Tree](https://github.com/bbbertucci/bbbertucci.github.io/blob/main/graduacao_ITA/terceiro_semestre/inteligencia_artificial_para_robotica_movel/trabalhos_individuais/1_FSM_BT.pdf)
+      - [Busca Informada](https://github.com/bbbertucci/bbbertucci.github.io/blob/main/graduacao_ITA/terceiro_semestre/inteligencia_artificial_para_robotica_movel/trabalhos_individuais/2_busca_informada.pdf)
+      - [Métodos de Busca Local](https://github.com/bbbertucci/bbbertucci.github.io/blob/main/graduacao_ITA/terceiro_semestre/inteligencia_artificial_para_robotica_movel/trabalhos_individuais/3_otimizacao_busca_local.pdf)
+      - [Métodos de Otimização Baseados em População](https://github.com/bbbertucci/bbbertucci.github.io/blob/main/graduacao_ITA/terceiro_semestre/inteligencia_artificial_para_robotica_movel/trabalhos_individuais/4_otimizacao_metodos_populacionais.pdf)
+      - [Estratégias Evolutivas](https://github.com/bbbertucci/bbbertucci.github.io/raw/main/graduacao_ITA/terceiro_semestre/inteligencia_artificial_para_robotica_movel/trabalhos_individuais/5_estrategias_evolutivas.pdf)
+      - [Redes Neurais](https://github.com/bbbertucci/bbbertucci.github.io/blob/main/graduacao_ITA/terceiro_semestre/inteligencia_artificial_para_robotica_movel/trabalhos_individuais/6_redes_neurais.pdf)
+      - [Imitation Learning com Keras](https://github.com/bbbertucci/bbbertucci.github.io/blob/main/graduacao_ITA/terceiro_semestre/inteligencia_artificial_para_robotica_movel/trabalhos_individuais/7_imitation_learning.pdf)
+      - [Redes Neurais Convolucionais](https://github.com/bbbertucci/bbbertucci.github.io/blob/main/graduacao_ITA/terceiro_semestre/inteligencia_artificial_para_robotica_movel/trabalhos_individuais/8_CNN.pdf)
+      - [Detecção de Objetos](https://github.com/bbbertucci/bbbertucci.github.io/blob/main/graduacao_ITA/terceiro_semestre/inteligencia_artificial_para_robotica_movel/trabalhos_individuais/9_deteccao_de_objetos.pdf)
+      - [Programação Dinâmica](https://github.com/bbbertucci/bbbertucci.github.io/blob/main/graduacao_ITA/terceiro_semestre/inteligencia_artificial_para_robotica_movel/trabalhos_individuais/10_programacao_dinamica.pdf)
+      - [Aprendizado por Reforço](https://github.com/bbbertucci/bbbertucci.github.io/blob/main/graduacao_ITA/terceiro_semestre/inteligencia_artificial_para_robotica_movel/trabalhos_individuais/11_aprendizado_por_reforco.pdf)
+      - [Deep Q-Learning](https://github.com/bbbertucci/bbbertucci.github.io/blob/main/graduacao_ITA/terceiro_semestre/inteligencia_artificial_para_robotica_movel/trabalhos_individuais/12_deep_q_learning.pdf)
   - Processamento Paralelo/HPC (Relatórios de Exercícios Individuais) [C]
     - Paralelização OpenMP 2.0 (Multi-thread)
       - [Algoritmo "Jogo da Vida"](https://github.com/bbbertucci/bbbertucci.github.io/blob/main/graduacao_ITA/quarto_semestre/processamento_paralelo/2_Jogo_da_Vida_OpenMP.pdf)
