@@ -34,6 +34,6 @@
   - [Modelo Computacional para Big Data](https://github.com/bbbertucci/bbbertucci.github.io/blob/main/graduacao_ITA/quarto_semestre/processamento_paralelo/11_Big_Data.pdf)
   - [GraphBLAS](https://github.com/bbbertucci/bbbertucci.github.io/blob/main/graduacao_ITA/quarto_semestre/processamento_paralelo/12_GraphBLAS.pdf)
 
-### Mecânica II - Simulações (Projetos em Grupo) Linguagem: Javascript
+### Mecânica II - Simulações (Projetos em Grupo) - Linguagem: Javascript
   - Pêndulo Duplo: [Simulação](https://kowalks.github.io/double-pendulum/) - [Código fonte](https://github.com/bbbertucci/bbbertucci.github.io/tree/main/graduacao_ITA/terceiro_semestre/mecanica_ii/trabalhos_em_grupo/double-pendulum)
   - Gravitação: [Simulação](https://kowalks.github.io/planets/) - [Código fonte](https://github.com/bbbertucci/bbbertucci.github.io/tree/main/graduacao_ITA/terceiro_semestre/mecanica_ii/trabalhos_em_grupo/planets)
