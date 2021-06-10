@@ -1,7 +1,7 @@
-## Formação
-### Engenharia Eletrônica (3° Ano) - Instituto Tecnológico de Aeronáutica
+# Portfólio
 
 ## Projetos Acadêmicos
+
 ### Inteligência Artificial para Robótica Móvel [Python]
   - Exame (Projeto em Grupo): [Códigos](https://github.com/bbbertucci/bbbertucci.github.io/tree/main/graduacao_ITA/terceiro_semestre/inteligencia_artificial_para_robotica_movel/trabalhos_em_grupo/Exame_CT-213) - [Relatório](https://raw.githubusercontent.com/bbbertucci/bbbertucci.github.io/main/graduacao_ITA/terceiro_semestre/inteligencia_artificial_para_robotica_movel/trabalhos_em_grupo/Exame_CT-213/grupo_21_relatorio.pdf)
   - Relatórios de Exercícios Individuais
