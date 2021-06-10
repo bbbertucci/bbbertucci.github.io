@@ -1,6 +1,6 @@
 # Portfólio
 
-## Projetos Acadêmicos
+## Projetos e Trabalhos Acadêmicos
 
 ### Inteligência Artificial para Robótica Móvel - Linguagem: Python
   - Otimização de movimento de chute de um robô humanoide simulado (Projeto em grupo)
