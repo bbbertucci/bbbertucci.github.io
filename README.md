@@ -3,7 +3,7 @@
 ## Projetos Acadêmicos
 
 ### Inteligência Artificial para Robótica Móvel - Linguagem: Python
-  - Exame (Projeto em Grupo): [Códigos](https://github.com/bbbertucci/bbbertucci.github.io/tree/main/graduacao_ITA/terceiro_semestre/inteligencia_artificial_para_robotica_movel/trabalhos_em_grupo/Exame_CT-213) - [Relatório](https://raw.githubusercontent.com/bbbertucci/bbbertucci.github.io/main/graduacao_ITA/terceiro_semestre/inteligencia_artificial_para_robotica_movel/trabalhos_em_grupo/Exame_CT-213/grupo_21_relatorio.pdf)
+  - Otimização de movimento de chute de um robô humanoide simulado (Projeto em Grupo): [Códigos](https://github.com/bbbertucci/bbbertucci.github.io/tree/main/graduacao_ITA/terceiro_semestre/inteligencia_artificial_para_robotica_movel/trabalhos_em_grupo/Exame_CT-213) - [Relatório](https://raw.githubusercontent.com/bbbertucci/bbbertucci.github.io/main/graduacao_ITA/terceiro_semestre/inteligencia_artificial_para_robotica_movel/trabalhos_em_grupo/Exame_CT-213/grupo_21_relatorio.pdf)
   - Relatórios de Exercícios Individuais
     - [Máquina de Estados Finita e Behavior Tree](https://github.com/bbbertucci/bbbertucci.github.io/blob/main/graduacao_ITA/terceiro_semestre/inteligencia_artificial_para_robotica_movel/trabalhos_individuais/1_FSM_BT.pdf)
     - [Busca Informada](https://github.com/bbbertucci/bbbertucci.github.io/blob/main/graduacao_ITA/terceiro_semestre/inteligencia_artificial_para_robotica_movel/trabalhos_individuais/2_busca_informada.pdf)
