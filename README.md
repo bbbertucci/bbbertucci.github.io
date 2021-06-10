@@ -38,7 +38,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
-<p align="center">
   Bruno Benjamim Bertucci
   Aluno de Engenharia Eletrônica - Instituto Tecnológico de Aeronáutica
   
@@ -47,4 +46,3 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
   - Inteligência Artificial para Robótica Móvel
     - Exame (Projeto em Grupo): [Códigos](https://github.com/bbbertucci/bbbertucci.github.io/tree/main/graduacao_ITA/terceiro_semestre/inteligencia_artificial_para_robotica_movel/trabalhos_em_grupo/Exame_CT-213) - [Relatório] (https://raw.githubusercontent.com/bbbertucci/bbbertucci.github.io/main/graduacao_ITA/terceiro_semestre/inteligencia_artificial_para_robotica_movel/trabalhos_em_grupo/Exame_CT-213/grupo_21_relatorio.pdf)
     - Relatórios de Exercícios Individuais
-</p>
