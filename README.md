@@ -3,9 +3,9 @@
 ## Projetos Acadêmicos
 
 ### Inteligência Artificial para Robótica Móvel - Linguagem: Python
-  - Otimização de movimento de chute de um robô humanoide simulado (Projeto em Grupo)
+  - Otimização de movimento de chute de um robô humanoide simulado (Projeto em grupo)
     [Códigos](https://github.com/bbbertucci/bbbertucci.github.io/tree/main/graduacao_ITA/terceiro_semestre/inteligencia_artificial_para_robotica_movel/trabalhos_em_grupo/Exame_CT-213) - [Relatório](https://raw.githubusercontent.com/bbbertucci/bbbertucci.github.io/main/graduacao_ITA/terceiro_semestre/inteligencia_artificial_para_robotica_movel/trabalhos_em_grupo/Exame_CT-213/grupo_21_relatorio.pdf)
-  - Relatórios de Exercícios Individuais
+  - Relatórios de exercícios individuais
     - [Máquina de Estados Finita e Behavior Tree](https://github.com/bbbertucci/bbbertucci.github.io/blob/main/graduacao_ITA/terceiro_semestre/inteligencia_artificial_para_robotica_movel/trabalhos_individuais/1_FSM_BT.pdf)
     - [Busca Informada](https://github.com/bbbertucci/bbbertucci.github.io/blob/main/graduacao_ITA/terceiro_semestre/inteligencia_artificial_para_robotica_movel/trabalhos_individuais/2_busca_informada.pdf)
     - [Métodos de Busca Local](https://github.com/bbbertucci/bbbertucci.github.io/blob/main/graduacao_ITA/terceiro_semestre/inteligencia_artificial_para_robotica_movel/trabalhos_individuais/3_otimizacao_busca_local.pdf)
@@ -20,7 +20,7 @@
     - [Deep Q-Learning](https://github.com/bbbertucci/bbbertucci.github.io/blob/main/graduacao_ITA/terceiro_semestre/inteligencia_artificial_para_robotica_movel/trabalhos_individuais/12_deep_q_learning.pdf)
 
 ### Processamento Paralelo/HPC - Linguagem: C
-**Relatórios de Exercícios Individuais**
+**Relatórios de exercícios individuais**
   - Paralelização OpenMP 2.0 (Multi-thread)
     - [Algoritmo "Jogo da Vida"](https://github.com/bbbertucci/bbbertucci.github.io/blob/main/graduacao_ITA/quarto_semestre/processamento_paralelo/2_Jogo_da_Vida_OpenMP.pdf)
     - [Algoritmo "Crivo de Eratóstenes"](https://github.com/bbbertucci/bbbertucci.github.io/blob/main/graduacao_ITA/quarto_semestre/processamento_paralelo/3_Crivo_de_Eratostenes_OpenMP.pdf)
@@ -34,6 +34,6 @@
   - [Modelo Computacional para Big Data](https://github.com/bbbertucci/bbbertucci.github.io/blob/main/graduacao_ITA/quarto_semestre/processamento_paralelo/11_Big_Data.pdf)
   - [GraphBLAS](https://github.com/bbbertucci/bbbertucci.github.io/blob/main/graduacao_ITA/quarto_semestre/processamento_paralelo/12_GraphBLAS.pdf)
 
-### Mecânica II - Simulações (Projetos em Grupo) - Linguagem: Javascript
+### Mecânica II - Simulações (Projetos em grupo) - Linguagem: Javascript
   - Pêndulo Duplo: [Simulação](https://kowalks.github.io/double-pendulum/) - [Código fonte](https://github.com/bbbertucci/bbbertucci.github.io/tree/main/graduacao_ITA/terceiro_semestre/mecanica_ii/trabalhos_em_grupo/double-pendulum)
   - Gravitação: [Simulação](https://kowalks.github.io/planets/) - [Código fonte](https://github.com/bbbertucci/bbbertucci.github.io/tree/main/graduacao_ITA/terceiro_semestre/mecanica_ii/trabalhos_em_grupo/planets)
