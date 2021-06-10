@@ -1,7 +1,5 @@
-## Bruno Benjamim Bertucci
-
-### Aluno de Engenharia Eletrônica
-# Instituto Tecnológico de Aeronáutica
+### Aluno de Engenharia Eletrônica (3° Ano)
+### Instituto Tecnológico de Aeronáutica
 
 ### Projetos Acadêmicos
   - Inteligência Artificial para Robótica Móvel [Python]
