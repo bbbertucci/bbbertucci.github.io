@@ -19,7 +19,7 @@
     - [Deep Q-Learning](https://github.com/bbbertucci/bbbertucci.github.io/blob/main/graduacao_ITA/terceiro_semestre/inteligencia_artificial_para_robotica_movel/trabalhos_individuais/12_deep_q_learning.pdf)
 
 ### Processamento Paralelo/HPC - Linguagem: C
-*Relatórios de Exercícios Individuais*
+**Relatórios de Exercícios Individuais**
   - Paralelização OpenMP 2.0 (Multi-thread)
     - [Algoritmo "Jogo da Vida"](https://github.com/bbbertucci/bbbertucci.github.io/blob/main/graduacao_ITA/quarto_semestre/processamento_paralelo/2_Jogo_da_Vida_OpenMP.pdf)
     - [Algoritmo "Crivo de Eratóstenes"](https://github.com/bbbertucci/bbbertucci.github.io/blob/main/graduacao_ITA/quarto_semestre/processamento_paralelo/3_Crivo_de_Eratostenes_OpenMP.pdf)
